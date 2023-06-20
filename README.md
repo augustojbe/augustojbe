@@ -6,15 +6,10 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front-End e gosto muito de compartilhar meu conhecimento aqui no GitHub em forma de projetos.
+    Sou um Desenvolvedor e gosto muito de compartilhar meu conhecimento aqui no GitHub em forma de projetos.
   </p>
   
   </div>
-<div align="center">
-<a href="https://github.com/augustojbe">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustojbe&layout=compact&langs_count=7&theme=codeSTACKr"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustojbe&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-</div>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -48,6 +43,6 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
+  <p>Augusto Alves</p>
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
