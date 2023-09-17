@@ -8,10 +8,9 @@
     Sou um Desenvolvedor e gosto muito de compartilhar meu conhecimento aqui no GitHub em forma de projetos.
   </p>
   </div>
-  <div>
-<a href="https://github.com/augustojbe">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustojbe&layout=compact&langs_count=7&theme=transparent_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustojbe&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <div align="center">
+  <a href="https://github.com/augustojbe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustojbe&layout=compact&langs_count=7&theme=transparent_icons=true"/>
 </div>
 
 <div align="center">
@@ -28,5 +27,4 @@
 
 <div align="center">
   <p>Augusto Alves</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
