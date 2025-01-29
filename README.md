@@ -3,6 +3,10 @@
     Oi Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/augusto-alves-87310556/">Augusto Alves 😃️</a>
   </h1>
+  <p align="center">Desenvolvedor Back-End Java</p>
+  <p>Formado em Gestão Comercial</p>
+  <p>Cursando Analise e Desenvolvimento de Sistemas </p>
+  
   
   <div align="center">
     <a href="https://github.com/augustojbe">
