@@ -3,7 +3,8 @@
     Oi Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/augusto-alves-87310556/">Augusto Alves 😃️</a>
   </h1>
-  <p align="center">Desenvolvedor Back-End Java | Python - Django</p>
+  <p>Conectando Programas</p>
+  <p align="center">Linux | Vagrant | Asimble | Docker | Kubernetes</p>
   <p>Formado em Gestão Comercial</p>
   <p>Cursando Analise e Desenvolvimento de Sistemas </p>
   
